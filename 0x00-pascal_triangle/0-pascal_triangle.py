@@ -2,15 +2,19 @@
 """
 0-pascal_triangle.py
 """
+
+
 def pascal_triangle(n):
     """
-    Returns a list of lists representing the Pascal's triangle up to the nth row.
+    Returns a list of lists representing the
+    Pascal's triangle up to the nth row.
 
     Args:
         n (int): The number of rows in the Pascal's triangle.
 
     Returns:
-        list: A list of lists, where each sublist represents a row in the Pascal's triangle.
+        list: A list of lists, where each sublist
+        represents a row in the Pascal's triangle.
 
     Example:
         >>> pascal_triangle(5)
