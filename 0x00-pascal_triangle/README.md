@@ -79,6 +79,14 @@ By revisiting these concepts, you will be well-prepared to tackle the challenges
 
     if __name__ == "__main__":
         print_triangle(pascal_triangle(5))
+
+    ╭─green@greenhouse 
+    ╰─➤  ./0-main.py
+    [1]
+    [1,1]
+    [1,2,1]
+    [1,3,3,1]
+    [1,4,6,4,1]
     ╭─green@greenhouse 
     ╰─➤  
     ```
