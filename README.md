@@ -45,9 +45,9 @@ Prepare for behavioral questions that assess your past experiences, teamwork, an
 
 If you have any suggestions or contributions to make, please fork the repository and submit a pull request.
 
-## License
+<!-- ## License -->
 
-This repository is licensed under the MIT License.
+<!-- This repository is licensed under the MIT License. -->
 
 ## Acknowledgements
 
