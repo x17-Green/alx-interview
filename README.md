@@ -11,11 +11,11 @@ This repository is designed to help individuals prepare for technical interviews
 
 ### 1. [0x00. Pascal's Triangle](./0x00-pascal_triangle/README.md "0x00. Pascal's Triangle")
 Generate Pascal's Triangle up to the nth row.
-<!-- 
-### 2. [0x01. Data Structures](0x01-data_structures "0x01. Data Structures")
-Implement common data structures such as arrays, linked lists, stacks, and queues.
 
-### 3. [0x02. Algorithms](0x02-algorithms "0x02. Algorithms")
+### 2. [0x01. Lockboxes](./0x01-lockboxes/README.md "0x01. Lockboxes")
+Solve the lockboxes problem.
+
+<!-- ### 3. [0x02. Algorithms](0x02-algorithms "0x02. Algorithms")
 Solve problems using different algorithms, including sorting, searching, and graph traversal.
 
 ### 4. [0x03. Object-Oriented Programming](0x03-object_oriented_programming "0x03. Object-Oriented Programming")
