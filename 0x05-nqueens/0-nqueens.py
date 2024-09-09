@@ -23,11 +23,13 @@ def solve_queens_problem(board_size):
 
     def is_valid_position(pos, occupied_pos):
         """
-        Check if a new queen position is valid given the current occupied positions.
+        Check if a new queen position is valid given the current occupied
+        positions.
 
         Args:
             pos (int): The row position to check for the current column.
-            occupied_pos (list): List of row positions for queens in previous columns.
+            occupied_pos (list): List of row positions for queens in previous
+            columns.
 
         Returns:
             bool: True if the position is valid, False otherwise.
